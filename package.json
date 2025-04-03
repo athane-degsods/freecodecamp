@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/athane-degsods/freecodecamp.git"
   },
-  "keywords": [],
+  "keywords": ["freecodecamp", "nodejs", "express", "mongodb"],
   "author": "hello",
   "license": "ISC",
   "bugs": {
